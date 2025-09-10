@@ -3,8 +3,8 @@ title: Q SOLUTIONS
 subtitle: Engineering Services
 email: marq020@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/landing" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: "https://marq020.github.io"
+baseurl: "/qsolutions-website"
 author: Marko Brnčić
 street_address: Kolodvorska 76/48
 city: Jakšić
